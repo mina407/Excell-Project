@@ -30,3 +30,7 @@ This project involves a comprehensive analysis of Sales Data using Excel. The go
   -  Weekday/Weekend Revenue Analysis
   - Monthly Revenue vs Target
 ![](https://github.com/mina407/Excell-Project/blob/main/Store.png)
+# Getting Started
+* Prerequisites
+  - Microsoft Excel
+
